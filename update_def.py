@@ -14,6 +14,6 @@ def update_bot():
     print("Update complete!")
 
 version = requests.get('https://raw.githubusercontent.com/ReaperAkira/owo_py/main/version.json')
-if version  != 1.0 :
+if version  != 2.0 :
     update_bot()
 #it work lol
