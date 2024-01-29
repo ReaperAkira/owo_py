@@ -5,7 +5,7 @@ import requests
 def update_bot():
     print("Updating...")
     update = requests.get(
-        "link go here"
+        "https://raw.githubusercontent.com/ReaperAkira/owo_py/main/up_update_file.py"
     )
 
     # Save the new version to the local file system
