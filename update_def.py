@@ -19,4 +19,4 @@ if version  != 2.0 :
     print("Update complete!")
     update_bot()
 #it work lol
-#SO GOOD BRO
+#SO GOOD BRO !!!
