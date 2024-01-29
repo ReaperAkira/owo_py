@@ -10,3 +10,4 @@ with open("owo_console\\update_def.py", "wb") as f:
     f.write(update.content)
 print("Update complete!")
 #hmm so good
+#perfect
