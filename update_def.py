@@ -17,3 +17,4 @@ version = requests.get('https://raw.githubusercontent.com/ReaperAkira/owo_py/mai
 if version  != 2.0 :
     update_bot()
 #it work lol
+# SO GOOD BRO
